@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiren Patel</h1>
 <h3 align="center">A passionate Software developer from India. I am currently working as an Applications Engineer in Oracle. I have over 2 years of experience in Software Development.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiren2599&label=Profile%20views&color=0e75b6&style=flat" alt="hiren2599" /> </p>
-<img align="right" alt="coding-animated-image" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw25GnCxq0bK3g8DKcpnuM0w&ust=1696341243714000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi60t7B14EDFQAAAAAdAAAAABAU"></img>
+<img align="right" alt="coding-animated-image" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 - 🌱 I’m currently learning **React**
 
