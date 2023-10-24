@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hirenpatel.workmail@gmail.com**
 
-- ⚡ Fun fact **I think most developers are self-taught.**
+- ⚡ Fun fact **63.9% of all surveyed developers contribute to open-source software**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
